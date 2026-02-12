@@ -1,6 +1,6 @@
 # Neural Nets from Scratch
 
-Companion code for the [Neural Nets from Scratch](https://tristanreid.com/blog/) blog series.
+Companion code for the [Neural Nets from Scratch](https://tristancode.com/blog/) blog series.
 
 All experiments run on CPU. No GPU required.
 
@@ -57,8 +57,8 @@ After training, the runner automatically:
 
 | Part | Post | Code | Status |
 |------|------|------|--------|
-| 1 | [Minds, Brains and Computers](https://tristanreid.com/blog/neural-nets-origin-story/) | — | Published |
-| 2 | [Neural Nets Are Simpler Than You Think](https://tristanreid.com/blog/neural-nets-simpler-than-you-think/) | — | Published |
+| 1 | [Minds, Brains and Computers](https://tristancode.com/blog/neural-nets-origin-story/) | — | Published |
+| 2 | [Neural Nets Are Simpler Than You Think](https://tristancode.com/blog/neural-nets-simpler-than-you-think/) | — | Published |
 | 3 | A Tour of Karpathy's Tutorials | — | Draft |
 | 4 | Building a Mixture-of-Experts Model | `makemore_moe.py` | Draft |
 | 5 | Adaptive Computation | Coming soon | — |
