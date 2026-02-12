@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Model checkpoints (large binary files)
+*.pt
+
+# Experiment runs — regenerate with: python run_experiments.py --run part4_v2
+runs/
+
+# OS files
+.DS_Store
